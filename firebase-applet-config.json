@@ -1,12 +1,12 @@
 {
-  "projectId": "inspirational-logic-ccf5x",
-  "appId": "1:297860370936:web:f20e60116c656b8cbf860d",
-  "apiKey": "AIzaSyAgc7JE2pTS2eVPIRUnZsQ9Nyq6AnYDEdc",
-  "authDomain": "inspirational-logic-ccf5x.firebaseapp.com",
-  "firestoreDatabaseId": "ai-studio-jobapplicationtr-8899f9b8-e3ec-4417-a7df-8d6d9e397086",
-  "storageBucket": "inspirational-logic-ccf5x.firebasestorage.app",
-  "messagingSenderId": "297860370936",
+  "projectId": "job-application-tracker-587a0",
+  "appId": "1:507516349299:web:841d08844002618f843306",
+  "apiKey": "AIzaSyBKTZgXOXKsfMl9mXKNP7eyZ9AhIjXjqFg",
+  "authDomain": "job-application-tracker-587a0.firebaseapp.com",
+  "storageBucket": "job-application-tracker-587a0.firebasestorage.app",
+  "messagingSenderId": "507516349299",
   "measurementId": "",
-  "oAuthClientId": "297860370936-4p48lis3matmm9pj1mi1v1itbljkmomn.apps.googleusercontent.com",
-  "recaptchaSiteKey": ""
+  "oAuthClientId": "",
+  "recaptchaSiteKey": "",
+  "firestoreDatabaseId": "(default)"
 }
